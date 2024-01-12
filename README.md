@@ -12,12 +12,12 @@ Attendance Management System is a web application based on Laravel which keeps t
 - PHP
 - LARAVEL
 
-## Demo
+<!-- ## Demo
 
 
   ### Admin credential
     username:ali@aliatayee.com
-    password:ali123
+    password:ali123 -->
 
 
 ### Install & Setup
@@ -80,20 +80,4 @@ $ php artisan serve
 
 
 
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-
-## Show your support
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## Contributing
-
-Thank you for considering contributing to the attendance management system!.
 
